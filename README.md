@@ -1,2 +1,2 @@
 # Tamagotchi
-Tamagotchi game
+Tamagotchi game Assignment
